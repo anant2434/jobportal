@@ -1,0 +1,17 @@
+System Requirement Specification Document
+
+Title:System requirement specification for online job portal
+
+
+
+
+Objective:  Create an online system for employee recruitment.
+
+Functional 
+Requirements:
+1)System should be able to create an account of job seeker.
+2)System should be able to maintain a database of all the registered users.
+3)Job recruiters should be able to view different candidate profiles according to their requirements.
+4)The system should provide different login to job seekers,job recuiters,job portal organization.
+5)Job portal organization should be able to verify job seekers as well as job recruiters.
+6)Job portal should be able to maintain database for job seekers as well as job providers.

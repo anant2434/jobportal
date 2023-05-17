@@ -1,0 +1,21 @@
+Bussiness entities :
+
+login_id
+password
+username
+roleid
+role name
+per id
+per role  id
+per name
+job desc
+job role
+job name
+
+Business Operations:
+
+account creation 
+account validation
+login
+logout
+search
